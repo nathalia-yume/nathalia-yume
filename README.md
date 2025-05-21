@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathalia-yume
 - 👀 I’m interested in psychology, history and literature
-- 🌱 I’m currently learning sql, python and analytics
-- 💞️ I’m looking to collaborate on Corporate Anlytics
+- 🌱 I’m currently learning sql, python and data modelling
+- 💞️ I’m looking to collaborate on Corporate Analytics
 - 📫 How to reach me nathalia.yume@mindbodyonline.com or nathalia-yume here
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm vegan
